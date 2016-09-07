@@ -15,5 +15,9 @@
     "layout"
   ],
   "author": "ar7casper",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ar7casper/bootstrap-grid-layout"
+  }
 }
