@@ -2,7 +2,7 @@
   "name": "bootstrap-grid-layout",
   "version": "1.0.0",
   "description": "Visualization of Bootsrap's grid layout.",
-  "main": "index.js",
+  "main": "GridManage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
